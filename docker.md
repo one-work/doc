@@ -9,6 +9,10 @@
 * 终端
   * `brew install docker`
 
+## Docker 私有容器镜像部署
+
+`docker run`
+
 
 ## 参考
 * [Docker 入门教程（阮一峰）](https://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)

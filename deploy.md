@@ -31,6 +31,8 @@
 
 * `bin/kamal proxy boot_config set --http_port 8080 --https_port 4431`
 
+## 自定义 kamal-proxy image 地址
+* `bin/kamal proxy boot_config set --registry ccr.ccs.tencentyun.com --repository kamal --image_version v0.9.1`
 
 ## 应用相关 Docker 服务
 
