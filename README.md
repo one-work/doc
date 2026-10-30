@@ -2,9 +2,9 @@
 
 ## 准备
 1. 确定项目地址，并添加 ssh 权限
+2. ssh-keygen
 
-## 开发准备
-1. Git clone 当前项目
+3. Git clone 当前项目
   * `git clone`
 2. 完成 clone 后，进入项目目录
   * 初始化子模块：`git submodule update --init`

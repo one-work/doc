@@ -13,4 +13,4 @@ CSS 使用语义化的纯 CSS 库 [Bulma](https://github.com/jgthms/bulma)
 
 ## 前端组件
 
-[Rails Design](https://github.com/work-design/rails_design)
+[Rails UI](https://github.com/one-work/rails_ui)
